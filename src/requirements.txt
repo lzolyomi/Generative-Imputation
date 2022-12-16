@@ -1,0 +1,6 @@
+pandas >= 1.2.0
+tqdm >= 4.62
+tensorflow >= 2.4
+scikit-learn >= 1.0
+plotly >= 4.9.0
+miceforest 
